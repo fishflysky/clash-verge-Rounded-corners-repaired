@@ -1,0 +1,4 @@
+html, body {
+  border-radius: 10px;  /* 为整个页面设置圆角 */
+  overflow: hidden;  /* 防止内容溢出 */
+}
